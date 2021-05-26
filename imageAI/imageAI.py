@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #visionをインポート
 from google.cloud import vision
 
