@@ -1,6 +1,0 @@
-Flask
-line-bot-sdk
-pandas
-gspread
-oauth2client
-gunicorn
